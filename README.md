@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->Meu nome é João Estevam e sou desenvolvedor Front-End, com experiência em HTML5,CSS3 e JavaScript
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 [![joao-spec's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-spec)](https://github.com/joao-spec/github-readme-stats)
+[![joao-spec's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-spec)](https://github.com/joao-spec/github-readme-stats)
