@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--Olá, me chamo João Estevam! Hi Deve, I'm João Estevam 👨‍💻
+<!--Olá, me chamo João Estevam! Hi Devs, I'm João Estevam 👨‍💻
 **joao-spec/joao-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->Meu nome é João Estevam e sou desenvolvedor Front-End, com experiência em HTML5,CSS3,JavaScript,Angular,React
-<!Minha Stack>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
