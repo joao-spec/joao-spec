@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--Olá, me chamo João Estevam!
+<!--Olá, me chamo João Estevam! Hi Deve, I'm João Estevam 👨‍💻
 **joao-spec/joao-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
