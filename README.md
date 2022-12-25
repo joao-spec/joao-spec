@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 <h1>Hi Devs, I'm João!</h1
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-spec&layout=compact)](https://github.com/joao-spec/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-spec)](https://github.com/joao-spec/github-readme-stats)
