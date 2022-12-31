@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/joaoestevam14" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/João Estevam" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-![Snake animation](https://github.com/joao-spec/joao-spec/blob/output/github-contribution-grid-snake.svg)
+(https://github.com/joao-spec/joao-spec/blob/output/github-contribution-grid-snake.svg)
 
 [![joao-spec's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-spec)](https://github.com/joao-spec/github-readme-stats)
 <h1>Olá mundo!</h1
