@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <a href="https://html5/in/html5" target="_blank"><img src="https://img.shields.io/badge/-html5-%230077B5?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>   
 <a href="https://css3/in/css3" target="_blank"><img src="https://img.shields.io/badge/-css3-%230077B5?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>   
 <a href="https://javascript/in/javascript" target="_blank"><img src="https://img.shields.io/badge/-javascript-%230077B5?style=for-the-badge&logo=javascript&logoColor=white" target="_blank"></a>   
+<a href="https://github/in/github" target="_blank"><img src="https://img.shields.io/badge/-github-%230077B5?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>   
 
 [![joao-spec's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-spec)](https://github.com/joao-spec/github-readme-stats)
 <h1>Olá mundo!</h1
