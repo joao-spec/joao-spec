@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/João Estevam" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <a href = "mailto:contato@joao-spec"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://html/in/html" target="_blank"><img src="https://img.shields.io/badge/-html-%230077B5?style=for-the-badge&logo=html&logoColor=white" target="_blank"></a>   
 
 [![joao-spec's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-spec)](https://github.com/joao-spec/github-readme-stats)
 <h1>Olá mundo!</h1
